@@ -55,5 +55,44 @@ var evolve = setInterval( () =>{
     var alerts = prompt("Please enter meeting information");
     $('#item13').text(alerts)
   })
+  $('#clr1').on('click', function (){
+    $('#item1').text("")
+  })
+  $('#clr2').on('click', function (){
+    $('#item2').text("")
+  })
+  $('#clr3').on('click', function (){
+    $('#item3').text("")
+  })
+  $('#clr4').on('click', function (){
+    $('#item4').text("")
+  })
+  $('#clr5').on('click', function (){
+    $('#item5').text("")
+  })
+  $('#clr6').on('click', function (){
+    $('#item6').text("")
+  })
+  $('#clr7').on('click', function (){
+    $('#item7').text("")
+  })
+  $('#clr8').on('click', function (){
+    $('#item8').text("")
+  })
+  $('#clr9').on('click', function (){
+    $('#item9').text("")
+  })
+  $('#clr10').on('click', function (){
+    $('#item10').text("")
+  })
+  $('#clr11').on('click', function (){
+    $('#item11').text("")
+  })
+  $('#clr12').on('click', function (){
+    $('#item12').text("")
+  })
+  $('#clr13').on('click', function (){
+    $('#item13').text("")
+  })
 
      
