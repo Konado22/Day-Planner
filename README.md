@@ -25,6 +25,12 @@ This project tasked us with creating a usable day planner that could help stayin
 <br>
 <br>
 
+# Features
+- Fullstack web application with express server
+- allows user to add and delete tasks
+- local storage for tasks
+- accurate time tracking through moment.js 
+
 # <a name= order>File Structure </a>
 - homework gif 
 - index.html
