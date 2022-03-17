@@ -12,7 +12,7 @@
 <br>
 <br>
 
-## User Story
+# User Story
 
 ```md
 AS AN employee with a busy schedule
