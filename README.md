@@ -4,7 +4,7 @@
 # Table of contents:
 ## <a name= descript>Description</a> 
 ## <a name= order>File Structure </a> 
-## <a name= packs>Resources </a> 
+## <a name= packs>Installation </a> 
 ## <a name= license>License </a> 
 ## <a name= contributions>Contributors </a> 
 ## <a name=links>Links </a>
@@ -40,8 +40,8 @@ This project tasked us with creating a usable day planner that could help stayin
 <br>
 <br>
 
-# <a name= packs>Resources </a> 
-- Moment.js
+# <a name= packs>Installation </a> 
+All dependencies are stored in the package.json file. Please ensure you have node installed to get packages through npm i or npm install. From there run the command npm run start at the root of the project to start the server at http://localhost:3001/
 
 # <a name= license> Liscense </a>
 MIT License
