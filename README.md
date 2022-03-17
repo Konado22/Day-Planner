@@ -12,6 +12,14 @@
 <br>
 <br>
 
+## User Story
+
+```md
+AS AN employee with a busy schedule
+I WANT to add important events to a daily planner
+SO THAT I can manage my time effectively
+```
+
 # <a name= descript>Description</a>
 This project tasked us with creating a usable day planner that could help staying organized. It allows the user to accurately set appointments/reminders for the day with accurate time and date as well as the ability to remove when completed. This app also saves the user data upon closing through local storage
 <br>
