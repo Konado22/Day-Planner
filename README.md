@@ -29,6 +29,8 @@ This project tasked us with creating a usable day planner that could help stayin
 # <a name= packs>Resources </a> 
 - Moment.js
 
+# <a name= license> Liscense </a>
+MIT License
 # <a name= contributions>Contributors </a> 
 myself(Jesse Draper)
 
